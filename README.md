@@ -1,4 +1,6 @@
 ## Amazon EKS Fluent Logging Examples
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpriyavartk%2Famazon-eks-fluent-logging-examples.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpriyavartk%2Famazon-eks-fluent-logging-examples?ref=badge_shield)
+
 
 Sample logging architectures for Fluent Bit and FluentD on Amazon EKS
 
@@ -19,3 +21,6 @@ We want examples of as many use cases in this repository as possible! Submit a P
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpriyavartk%2Famazon-eks-fluent-logging-examples.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpriyavartk%2Famazon-eks-fluent-logging-examples?ref=badge_large)
